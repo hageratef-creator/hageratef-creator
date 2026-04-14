@@ -1,13 +1,12 @@
 <h1>Hi there 👋 I'm Hager</h1>
-
-<p>🌱 <b>Programming Fundamentals Learner</b> following a structured learning roadmap</p>
-
+<p>💡 Turning logic into real-world applications, one project at a time.</p>
+<p>🚀 <b>Aspiring Software Developer</b> with a strong foundation in C++ and OOP</p>
 <hr>
 
 <h2>👩‍💻 About Me</h2>
 <ul>
-  <li>📌 Learning roadmap by <a href="https://www.youtube.com/@MohamedAbuHaddoud" target="_blank">Dr. Mohamed Abu Heddoud</a></p>
-  <li>💻 Currently learning programming fundementals & concepts using <b>C++</b></li>
+  <li>📌 Learning roadmap by <a href="https://www.youtube.com/@MohamedAbuHaddoud" target="_blank">Dr. Mohamed Abu Heddoud</a></li>
+  <li>💻 Built a strong foundation using <b>C++</b>, OOP, Data Structures & Algorithms</li>
   <li>🔧 Practicing <b>Git & GitHub</b> for version control</li>
   <li>📚 Building my knowledge step by step through daily practice</li>
   <li>📌 Focused on building a solid foundation before moving forward</li>
@@ -17,8 +16,8 @@
 
 <h2>🎯 Current Goals</h2>
 <ul>
-  <li>🧠 Master programming fundamentals</li>
-  <li>🧠 Compelete the roadmap courses to move to the next step in my learning journy</li>
+  <li>🧠 Strengthen and master programming fundamentals</li>
+  <li>🧠 Complete the roadmap and advance to the next stage of my journey</li>
   <li>📦 Build a strong <b>GitHub portfolio</b></li>
   <li>📝 Share my learning journey, exercises, and small achievements</li>
   <li>🚀 Stay consistent and improve every day</li>
@@ -54,13 +53,13 @@
 
 
 <h1>🏗️ Projects</h1>
-<p>Here are some real projects showcasing my progress from the beginning of my learning journey to now:</p>
+<p>Here are some selected projects that demonstrate my progress and skills:</p>
 <ul>
-  <li>📌 <b>Rock-Paper-Scissors Game</b> – Built using C++ to practice basic logic and conditional statements.</li>
-  <li>📌 <b>Math Game</b> – Created using C++ and nested functions to enhance problem-solving skills.</li>
-  <li>📌 <b>ATM System</b> – Developed in C++ with nested functions to simulate basic banking operations.</li>
+  <li>📌 <b>Banking System</b> – A full system built from scratch using C++, applying OOP concepts such as classes, encapsulation, and system design.</li>
+  <li>📌 <b>ATM System</b> – Simulated real-world banking operations using C++ and modular functions.</li>
+  <li>📌 <b>Rock-Paper-Scissors Game</b> – Designed and implemented using C++ to apply conditional logic and user interaction.</li>
+  <li>📌 <b>Math Game</b> – Developed using C++ with structured logic and functions to enhance problem-solving skills.</li>
   <li>📌 <b>Custom Libraries</b> – Built multiple libraries to help streamline and support my projects.</li>
-  <li>📌 <b>Banking System</b> – My largest project so far; started from scratch and developed step by step into a full system using C++, Classes, and OOP concepts.</li>
 </ul>
 <p><i>(More projects will be added as I progress!)</i></p>
 
@@ -90,3 +89,10 @@
 
 
 <p>✨ This profile is a living record of my learning journey. Feel free to explore my repositories!</p>
+<hr>
+
+<h2>📫 Connect with me</h2>
+<ul>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/hager-atef-177b693bb/" target="_blank">My Profile</a></li>
+  <li>💻 GitHub: <a href="https://github.com/hageratef-creator" target="_blank">My GitHub</a></li>
+</ul>
